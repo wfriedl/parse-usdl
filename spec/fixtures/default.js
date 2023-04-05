@@ -20,4 +20,5 @@ exports.default = {
   middleName: 'Motorist',
   middleNameTruncated: 'N',
   sex: 'M',
+  version: 7,
 }
